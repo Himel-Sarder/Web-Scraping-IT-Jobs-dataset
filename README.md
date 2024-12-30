@@ -2,7 +2,7 @@
 ![image](https://github.com/user-attachments/assets/af87b8bf-77ac-4c66-9a85-c55673aa69e3)
 
 ## Website Link : https://www.timesjobs.com    
-
+## Kaggle : https://www.kaggle.com/datasets/himelsarder/global-it-job-listings-dataset/data
 ## Overview
 
 This project is a Python-based web scraping tool that collects job listings from **TimesJobs** for IT-related positions. It extracts job titles, company names, locations, and experience requirements, and saves the data into a CSV file. The tool uses **BeautifulSoup** and **Pandas** for web scraping and data manipulation.
