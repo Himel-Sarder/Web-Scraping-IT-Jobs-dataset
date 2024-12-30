@@ -1,5 +1,6 @@
 # Web Scraping Job Listings from TimesJobs
-![image](https://github.com/user-attachments/assets/6e2274a0-c7ed-440b-b840-b839fd3d0dce)
+![image](https://github.com/user-attachments/assets/af87b8bf-77ac-4c66-9a85-c55673aa69e3)
+
 
 ## Overview
 
